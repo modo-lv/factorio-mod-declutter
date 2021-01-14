@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+  Info:
+    - Added changelog.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2021.01.15
+  Info:
+    - Added thumbnail.
+    - Added install/uninstall info in description.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2021.01.15
+  Info:
+    - Initial release. Allows hiding Krastorio 2 containers and manually entered tech & recipe names.
